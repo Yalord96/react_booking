@@ -1,0 +1,11 @@
+.text {
+    width: 1440px;
+    margin: 0 auto;
+}
+.text_name {
+    font-weight: bold;
+    font-size: 30px;
+}
+.text_booking {
+    color: pink;
+}
