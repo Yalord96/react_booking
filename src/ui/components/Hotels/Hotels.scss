@@ -1,0 +1,27 @@
+.hotels{
+  overflow: hidden;
+  margin: 10px 20px;
+  border: solid 1px black;
+  border-radius: 10px;
+  text-align: start;
+  max-width: 960px;
+  height: 200px;
+  &__img{
+    margin-left: 10px;
+    height: 200px;
+    width: 250px;
+    margin-right: 10px;
+    float: left;
+  }
+  &__name{
+    color: black;
+  }
+  &__rating{
+    font-size: 32px;
+    color: gold;
+  }
+  &__adress{
+    font-size: 18px;
+    color: gray;
+  }
+}
